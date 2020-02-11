@@ -2,6 +2,8 @@
 
 (c) 2018 [**Cleuton Sampaio**](https://github.com/cleuton).
 
+[![](./banner_livros2.png)](https://www.lcm.com.br/site/#livros/busca?term=cleuton)
+
 # Do It Native
 
 **React Native non-nonsense guide! Create mobile apps with React!**
