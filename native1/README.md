@@ -2,6 +2,8 @@
 
 (c) 2018 [**Cleuton Sampaio**](https://github.com/cleuton).
 
+[![](../banner_livros2.png)](https://www.lcm.com.br/site/#livros/busca?term=cleuton)
+
 # Dando a partida
 
 Bom, você já criou apps móveis? Android? iOS? Não? Então, aprenderá da maneira mais simples possível. Se já criou, sabe o **inferno** que é usar **Android Studio** ou **Xcode** não? Com o **React Native** você pode utilizar a IDE que desejar, como o **Visual Studio Code**, por exemplo. E nem precisa instalar **SDK** algum em sua máquina. 
